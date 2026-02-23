@@ -16,7 +16,7 @@ DBMS – Database management
 ER Modeling – Database structure design
 
 📂 Data Source:-
-IMDB-style dataset (movies dataset)
+IMDB-style dataset (movies dataset,Director Dataset)
 
 Contains:
 Movie Title
